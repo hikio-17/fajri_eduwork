@@ -1,1 +1,18 @@
 File ini berisi dari rangkuman materi GIT yang telah dipelajari
+
+============ Uraian Materi =============
+
+1. intro materi Git
+	==> - Git adalah salah satu version control system yang diciptakan oleh Linus Torvalds
+	    - GIT mencatat setiap perubahan pada sebuah file di code atau sourcecode
+	manfaat git sendiri :
+	- Bisa menyimpan seluruh versi sourcecode
+	- Berkolaborasi membangun sistem jadi mudah
+	- Bisa berkontribusi di proyek open source
+	- Memudahkan dalam tracking perubahan
+	- Memahami cara deploy modern
+	Git ini dibutuhkan ketika :
+	- Saat ingin membangun sistem dengan berkolaborasi
+	- Membuat versi dari sistem
+	- Backup Sourcecode
+	- Berkolaborasi dengan programmer dunia
