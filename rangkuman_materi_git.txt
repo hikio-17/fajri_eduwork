@@ -42,5 +42,9 @@ File ini berisi dari rangkuman materi GIT yang telah dipelajari
 	- Git checkout nama_branch ==> Untuk berpindah branch
 	- Git branch -d nama_branch ==> Untuk menghapus sebuah branch
 	- Git merge nama_branch ==> Untuk menggabungkan commit dari 2 branch,relatif terhadap branch yang aktif saat ini, dan untuk melakukan merge harus dipastikan tidak ada file yang belum di commit
+	
+4. GUI
+	==> Software berbasis GUI ini dapat digunakan untuk memudahkan dalam mengoperasikan git salah satunya berupa Sourcetree.manfaat dari menggunakan software berbasis GUI berupa mudah digunakan, solving conflict jadi lebih mudah dan mempercepat kinerja.
+
 
 
