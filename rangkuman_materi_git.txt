@@ -16,3 +16,19 @@ File ini berisi dari rangkuman materi GIT yang telah dipelajari
 	- Membuat versi dari sistem
 	- Backup Sourcecode
 	- Berkolaborasi dengan programmer dunia
+	
+2. Fundamental GIT
+	Pada materi ini berisikan perintah perintah dasar yang digunakan ketika kita bekerja dengan menggunak GIT :
+	- Git Init ==> untuk menginisialisasi repository
+	- Git config ==>untuk konfigurasi email dan username git local dengan server yang biasanya digunakan berupa github/gitlab
+	- Git Status ==> Untuk mengetahui status file,secara umum status file ini terbagi menjadi 3 :
+				1. Untracked
+				2. Staging area
+				3. Modified
+	- Git add ==> untuk memasukkan file ke Stagging area
+	- Git Log ==> Untuk riwayat commit
+	- Git Commit ==> Untuk mencatat perubahan yang dilakukan
+	- Git Clone ==> Untuk mengcopy repo dari server
+	- Git Remote ==> Semacam API untuk berinteraksi dari client dengan server
+	- Git Push ==> Untuk mengirimkan commit ke server
+	- Git Pull ==> Untuk mengambil commit dari server jika ada perubahan di server yang dibuat oleh branc lain
